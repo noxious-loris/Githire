@@ -3,3 +3,4 @@ requests
 google-generativeai
 jinja2
 pdflatex
+streamlit-lottie
