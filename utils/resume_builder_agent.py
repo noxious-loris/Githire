@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import requests
 
-genai.configure(api_key="AIzaSyD73vy59xoZUvhkNBf1inHEif8N_CK-Ma8")
+genai.configure(api_key="GEmmeni_api_key")
 
 def fetch_github_projects(username, max_projects=5):
     response = requests.get(f"https://api.github.com/users/{username}/repos")
