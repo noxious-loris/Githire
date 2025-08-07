@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyD73vy59xoZUvhkNBf1inHEif8N_CK-Ma8")
+genai.configure(api_key="Gemmeni_api_key")
 
 def write_cold_email(recruiter_name, company, job_title, resume_filename):
     prompt = f"""
