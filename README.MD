@@ -16,9 +16,8 @@ Githire is a modern SaaS platform that enables companies to discover and hire to
 
 - 🐍 Python
 - 🔮 Streamlit
-- 💡 OpenAI GPT (for profile summaries)
+- 💡 Gemmeni  (for profile summaries)
 - 💻 GitHub API
-- 💅 WindSurf (for UI enhancement)
 
 ## 🚀 Getting Started
 
