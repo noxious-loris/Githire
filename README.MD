@@ -1,6 +1,6 @@
 # Githire 🚀
 
-Githire is a modern SaaS platform that enables companies to discover and hire top tech talent by analyzing developers' open-source contributions and GitHub performance. We bring transparency, data-driven hiring, and community-powered recruitment to the forefront.
+Githire is a modern platform that makes a custom resume based on a provided job description 
 
 
 ## 🌟 Features
@@ -10,7 +10,6 @@ Githire is a modern SaaS platform that enables companies to discover and hire to
 - 🧠 **AI Summaries:** Auto-generate professional summaries based on GitHub activity.
 - 💼 **Talent Dashboard:** A clean interface for recruiters to shortlist candidates.
 - ⚡ **Streamlit UI:** Fast, responsive, and deployed as a web app.
-- 🧬 **Windsurf Enhanced UI:** Beautiful modern SaaS landing page using WindSurf.
 
 ## 📦 Tech Stack
 
