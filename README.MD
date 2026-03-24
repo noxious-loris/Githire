@@ -15,7 +15,7 @@ Githire is a modern platform that makes a custom resume based on a provided job 
 
 - 🐍 Python
 - 🔮 Streamlit
-- 💡 Gemmeni  (for profile summaries)
+- 💡 Gemeni  (for profile summaries)
 - 💻 GitHub API
 
 ## 🚀 Getting Started
